@@ -1,10 +1,9 @@
 Ring2Park Online
 ================
 
-ring2park online is a Spring MVC/Webflow Reference Application.
+Ring2Park Online is a Spring MVC/Webflow Reference Application.
 
 To get up and running:
-
 
 	- create a new MySQL database called ring2park
 	- create the database table structure using src/main/resources/schema.sql
