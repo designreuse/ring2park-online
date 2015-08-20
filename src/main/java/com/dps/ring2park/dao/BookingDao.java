@@ -1,9 +1,9 @@
 package com.dps.ring2park.dao;
 
 
-import java.util.List;
-
 import com.dps.ring2park.domain.Booking;
+
+import java.util.List;
 
 /**
  * Booking DAO interface.
@@ -18,7 +18,7 @@ public interface BookingDao {
     public Booking find(Long id);
     
     /**
-     * Persist Booking.
+     * Persist Booking in database.
      */
     public void persist(Booking Booking);
 
